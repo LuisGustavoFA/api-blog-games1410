@@ -1,5 +1,16 @@
 [
   {
+    "banner": "https://files.tecnoblog.net/wp-content/uploads/2019/03/brawlstars-700x394.jpg",
+    "tags": ["REVIEW", "MOBILE"],
+    "title": "Review: Brawl Stars (2018)",
+    "subtitle": "Jogo mobile multijogador online desenvolvido pela Supercell",
+    "text": "Em breve um texto será escrito aqui :)",
+    "info": {
+      "autor": "Luis Gustavo",
+      "data": "02/11/2023"
+    }
+  },
+  {
     "banner": "https://gh.cdn.sewest.net/assets/ident/pulse/8f595c57/FUNGOR_PULSE_Ver_A-ygbowjoxi.jpg?quality=65",
     "tags": ["NOTÍCIA", "MOBILE"],
     "title": "Square Enix anuncia jogo mobile de KINGDOM HEARTS",
@@ -12,7 +23,7 @@
   },
   {
     "banner": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S1_2560x1440-16b7f817d8803517fbecbf3f175ac997",
-    "tags": ["NOTÍCIA", "GAMES", "PC"],
+    "tags": ["NOTÍCIA", "PC"],
     "title": "Dois novos jogos ficam de graça na Epic Games Store",
     "subtitle": "Mais jogos são liberados sem custo na loja",
     "text": "Já é possível baixar sem pagar dois novos jogos pela Epic Games Store. Liberados nessa quinta-feira (19/10), os jogos são 'The Evil Within' e 'Eternal Threads'. Supostamente, na próxima semana também será liberado a sequência de The Evil Within, 'The Evil Within 2', além de outro jogo: 'Tandem: a Tale of Shadows'.",
@@ -23,7 +34,7 @@
   },
   {
     "banner": "https://blog.playstation.com/tachyon/2023/10/776ce4ee990ac7ce9bbba981ee37d966493e0997.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
-    "tags": ["NOTÍCIA", "GAMES", "SONY"],
+    "tags": ["NOTÍCIA", "SONY"],
     "title": "Playstation Plus Extra e Premium de outubro revelada",
     "subtitle": "Sony revelou nessa quarta-feira (11/10) os novos jogos que estarão disponíveis para os assinantes",
     "text": "Todos os jogos ficarão disponíveis na próxima terça-feira, a lista inclui Gotham Knights, Disco Elysium – The Final Cut, The Dark Pictures Anthology: House of Ashes, Alien: Isolation, Dead Island Definitive Edition, Outlast 2, Elite Dangerous, FAR: Changing Tides, Gungrave G.O.R.E., Eldest Souls, Röki, e para assinantes os premium também ficará disponível Tekken 6, Soulcalibur: Broken Destiny, Ape Escape Academy, IQ Final.",
@@ -45,7 +56,7 @@
   },
   {
     "banner": "https://t2.tudocdn.net/687809?w=1200&h=1200",
-    "tags": ["NOTÍCIA", "GAMES", "VAZAMENTO"],
+    "tags": ["NOTÍCIA", "VAZAMENTO"],
     "title": "GTA 6 tem data de lançamento supostamente anunciada",
     "subtitle": "Jogo mais esperado dos ultimos anos teria data finalmente revelada por Rockstar, segundo rumor",
     "text": "Nessa quinta-feira (12/10) um leaker chamado 'RSLEAKER2132', com um bom histórico em vazamentos do tipo, disse que segundo suas fontes o jogo estará marcado para lançar no primeiro semestre de 2025. Não temos nenhuma informação oficial sobre o lançamento do jogo até então.",
