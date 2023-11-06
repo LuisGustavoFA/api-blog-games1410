@@ -11,17 +11,17 @@
       "img": "https://s2-techtudo.glbimg.com/KtPJFn8vkv01hBiOIdXYOTY5fp4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/Y/B/mguuXqROu01yIlvFbyBw/pubg-certa.png",
       "text": "Item 2 text placeholder"
     },
-    "item3" {
+    "item3": {
       "title": "3. Item 3 title placeholder",
       "img": "https://s2-g1.glbimg.com/Vlau0ovwXSYdS-mYR1UgdXSSXkw=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/s/b/WRcbGYT1iHgJpVaDx6Yg/bs.jpg",
       "text": "Item 3 text placeholder"
     },
-    "item4" {
+    "item4": {
       "title": "4. Item 4 title placeholder",
       "img": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
       "text": "Item 4 text placeholder"
     },
-    "item5" {
+    "item5": {
       "title": "5. Item 5 title placeholder",
       "img": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
       "text": "Item 5 text placeholder"
@@ -44,17 +44,17 @@
       "img": "https://s2-techtudo.glbimg.com/KtPJFn8vkv01hBiOIdXYOTY5fp4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/Y/B/mguuXqROu01yIlvFbyBw/pubg-certa.png",
       "text": "Item 2 text placeholder"
     },
-    "item3" {
+    "item3": {
       "title": "3. Item 3 title placeholder",
       "img": "https://s2-g1.glbimg.com/Vlau0ovwXSYdS-mYR1UgdXSSXkw=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/s/b/WRcbGYT1iHgJpVaDx6Yg/bs.jpg",
       "text": "Item 3 text placeholder"
     },
-    "item4" {
+    "item4": {
       "title": "4. Item 4 title placeholder",
       "img": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
       "text": "Item 4 text placeholder"
     },
-    "item5" {
+    "item5": {
       "title": "5. Item 5 title placeholder",
       "img": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
       "text": "Item 5 text placeholder"
