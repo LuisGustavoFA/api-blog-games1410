@@ -1,31 +1,33 @@
 [
   {
     "title": "Melhores jogos mobile do mês de outubro",
-    "item1": {
-      "title": "1. COD Mobile",
-      "img": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
-      "text": "Recebeu 480 mil downloads este mês."
-    },
-    "item2": {
-      "title": "2. PUBG Mobile",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
-      "text": "Recebeu 330 mil downloads este mês."
-    },
-    "item3": {
-      "title": "3. Brawl Stars",
-      "img": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
-      "text": "Recebeu 270 mil downloads este mês."
-    },
-    "item4": {
-      "title": "4. Roblox",
-      "img": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
-      "text": "Recebeu 260 mil downloads este mês."
-    },
-    "item5": {
-      "title": "5. Candy Crush",
-      "img": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
-      "text": "Recebeu 200 mil downloads este mês."
-    },
+    "itens": [
+      "item1": {
+        "title": "1. COD Mobile",
+        "img": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
+        "text": "Recebeu 480 mil downloads este mês."
+      },
+      "item2": {
+        "title": "2. PUBG Mobile",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
+        "text": "Recebeu 330 mil downloads este mês."
+      },
+      "item3": {
+        "title": "3. Brawl Stars",
+        "img": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
+        "text": "Recebeu 270 mil downloads este mês."
+      },
+      "item4": {
+        "title": "4. Roblox",
+        "img": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
+        "text": "Recebeu 260 mil downloads este mês."
+      },
+      "item5": {
+        "title": "5. Candy Crush",
+        "img": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
+        "text": "Recebeu 200 mil downloads este mês."
+      },
+    ],
     "info": {
       "autor": "Luis Gustavo",
       "data": "06/11/2023"
@@ -34,31 +36,33 @@
 
   {
     "title": "List Title Placeholder 2",
-    "item1": {
+    "itens": [
+      "item1": {
       "title": "1. Item 1 title placeholder",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
       "text": "Item 1 text placeholder"
-    },
-    "item2": {
-      "title": "2. Item 2 title placeholder",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-      "text": "Item 2 text placeholder"
-    },
-    "item3": {
-      "title": "3. Item 3 title placeholder",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-      "text": "Item 3 text placeholder"
-    },
-    "item4": {
-      "title": "4. Item 4 title placeholder",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-      "text": "Item 4 text placeholder"
-    },
-    "item5": {
-      "title": "5. Item 5 title placeholder",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-      "text": "Item 5 text placeholder"
-    },
+      },
+      "item2": {
+        "title": "2. Item 2 title placeholder",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+        "text": "Item 2 text placeholder"
+      },
+      "item3": {
+        "title": "3. Item 3 title placeholder",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+        "text": "Item 3 text placeholder"
+      },
+      "item4": {
+        "title": "4. Item 4 title placeholder",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+        "text": "Item 4 text placeholder"
+      },
+      "item5": {
+        "title": "5. Item 5 title placeholder",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+        "text": "Item 5 text placeholder"
+      },
+    ],
     "info": {
       "autor": "Placeholder Autor",
       "data": "00/00/0000"
