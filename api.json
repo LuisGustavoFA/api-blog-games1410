@@ -1,5 +1,17 @@
 [
   {
+    "banner": "https://cdn.promo.capcomusa.com/boxart/157136.png",
+    "tags": ["REVIEW"],
+    "title": "Resident Evil 4 (REMAKE)",
+    "subtitle": "Remake do clássico jogo de ação da CAPCOM",
+    "text": "Em breve um texto será escrito aqui :)",
+    "info": {
+      "autor": "Luis Gustavo",
+      "data": "24/11/2023"
+    }
+    "score": "89"
+  },
+  {
     "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/8bfb3a1a3ffd546cef661b3113f973b4da038d1e.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
     "tags": ["NOTÍCIA", "SONY"],
     "title": "Playstation Plus Extra e Deluxe de novembro reveladas",
@@ -42,6 +54,7 @@
       "autor": "Luis Gustavo",
       "data": "02/11/2023"
     }
+    "score": "79"
   },
   {
     "banner": "https://gh.cdn.sewest.net/assets/ident/pulse/8f595c57/FUNGOR_PULSE_Ver_A-ygbowjoxi.jpg?quality=65",
