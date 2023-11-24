@@ -1,5 +1,27 @@
 [
   {
+    "banner": "https://cdn.ome.lt/0sxfD9ZJGsUQKk7QOXJzvEDz5AU=/1200x630/smart/extras/conteudos/tga_2022_GGNZSUw.webp",
+    "tags": ["NOTICIA"],
+    "title": "Confira os jogos indicados para concorrer ao prêmio TGA 2023",
+    "subtitle": "Finalmente foram anunciados os jogos selecionados para o grande prêmio de jogo do ano",
+    "text": "Os indicados para 'Jogo do Ano' são: Alan Wake 2 (Remedy Entertainment), Super Mario Bros. Wonder (Nintendo), The Legend of Zelda: Tears of the Kingdom (Nintendo), Baldur's Gate III (Larian Studios), Resident Evil 4 (Capcom) e Marvel's Spider-Man 2 (Insomniac Games)",
+    "info": {
+      "autor": "Luis Gustavo",
+      "data": "24/11/2023"
+    }
+  },
+  {
+    "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg",
+    "tags": ["REVIEW", "LANÇAMENTO"],
+    "title": "Review: Baldurs Gate III",
+    "subtitle": "Review do forte concorrente a jogo do ano de 2023",
+    "text": "Em breve um texto será escrito aqui :)",
+    "info": {
+      "autor": "Luis Gustavo",
+      "data": "24/11/2023"
+    }
+  },
+  {
     "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/BiS5QP6h4506JHyJlZlVzK9D.jpg",
     "tags": ["REVIEW"],
     "title": "Review: Resident Evil 4 (REMAKE)",
@@ -46,7 +68,7 @@
   {
     "banner": "https://files.tecnoblog.net/wp-content/uploads/2019/03/brawlstars-700x394.jpg",
     "tags": ["REVIEW", "MOBILE"],
-    "title": "Review: Brawl Stars (2018)",
+    "title": "Review: Brawl Stars",
     "subtitle": "Jogo mobile multijogador online desenvolvido pela Supercell",
     "text": "Em breve um texto será escrito aqui :)",
     "info": {
