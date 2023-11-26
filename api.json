@@ -185,6 +185,11 @@
   ],
   "lists": [
     {
+      "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
+      "tags": [
+        "LISTA",
+        "MOBILE"
+      ],
       "title": "Melhores jogos mobile do mês de outubro",
       "itens": [
         {
@@ -215,10 +220,15 @@
       ],
       "info": {
         "autor": "Luis Gustavo",
-        "data": "06/11/2023"
+        "time": "2023-11-06T11:00:00-03:00"
       }
     },
     {
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
+      "tags": [
+        "LISTA",
+        "PLACEHOLDER"
+      ],
       "title": "List Title Placeholder 2",
       "itens": [
         {
@@ -249,7 +259,7 @@
       ],
       "info": {
         "autor": "Placeholder Autor",
-        "data": "00/00/0000"
+        "time": "2000-01-01T12:00:00-03:00"
       }
     }
   ]
