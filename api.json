@@ -33,17 +33,6 @@
     }
   },
   {
-    "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/8bfb3a1a3ffd546cef661b3113f973b4da038d1e.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
-    "tags": ["NOTÍCIA", "SONY"],
-    "title": "Playstation Plus Extra e Deluxe de novembro reveladas",
-    "subtitle": "Sony revelou nessa quarta-feira (15/11) os novos jogos que estarão disponíveis para os assinantes",
-    "text": "Os títulos do plano extra incluem Teardown, Dragon's Dogma: Dark Arisen, Mobile Suit Gundam: Extreme vs. Maxi Boost On, Dead Island: Riptide Definitive Edition, Superliminal, Eiyuden Chronicle: Rising e Nobunaga’s Ambition: Taishi. Enquanto os do plano deluxe são: Grandia, Get Moto, Up, Klonoa Phantasy Reverie Series, PaRappa the Rapper 2. O Destaque do Mês é Teardown, que ficará disponível no dia do lançamento.",
-    "info": {
-      "autor": "João Gabriel",
-      "time": "2023-11-21T10:30:00-03:00"
-    }
-  },
-  {
     "banner": "https://blog.playstation.com/tachyon/2023/11/16eaf67a7743990f759c08b345d0bb81d33e56b2.png?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
     "tags": ["NOTÍCIA", "SONY"],
     "title": "The Last of Us Part II Remastered oficialmente anunciado",
@@ -52,6 +41,17 @@
     "info": {
       "autor": "Luis Gustavo",
       "time": "2023-11-19T09:50:00-03:00"
+    }
+  },
+  {
+    "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/8bfb3a1a3ffd546cef661b3113f973b4da038d1e.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
+    "tags": ["NOTÍCIA", "SONY"],
+    "title": "Playstation Plus Extra e Deluxe de novembro reveladas",
+    "subtitle": "Sony revelou nessa quarta-feira (15/11) os novos jogos que estarão disponíveis para os assinantes",
+    "text": "Os títulos do plano extra incluem Teardown, Dragon's Dogma: Dark Arisen, Mobile Suit Gundam: Extreme vs. Maxi Boost On, Dead Island: Riptide Definitive Edition, Superliminal, Eiyuden Chronicle: Rising e Nobunaga’s Ambition: Taishi. Enquanto os do plano deluxe são: Grandia, Get Moto, Up, Klonoa Phantasy Reverie Series, PaRappa the Rapper 2. O Destaque do Mês é Teardown, que ficará disponível no dia do lançamento.",
+    "info": {
+      "autor": "João Gabriel",
+      "time": "2023-11-21T10:30:00-03:00"
     }
   },
   {
