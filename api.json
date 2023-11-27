@@ -191,6 +191,7 @@
         "MOBILE"
       ],
       "title": "Melhores jogos mobile do mês de outubro",
+      "subtitle":"Confira a lista dos 5 jogos mobile com mais downloads no mês de Outubro de 2023",
       "itens": [
         {
           "title": "Candy Crush",
@@ -229,7 +230,8 @@
         "LISTA",
         "PLACEHOLDER"
       ],
-      "title": "List Title Placeholder 2",
+      "title": "List Title Placeholder",
+      "subtitle":"List Subtitle Placeholder",
       "itens": [
         {
           "title": "Item 5 title placeholder",
