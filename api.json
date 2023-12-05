@@ -13,7 +13,24 @@
       "info": {
         "autor": "João Gabriel",
         "time": "2023-11-29T09:50:00-03:00"
-      }
+      }, 
+      "games": [
+        {
+          "title": "Lego 2K Drive",
+          "banner": "https://blog.playstation.com/tachyon/2023/11/9fa10a9b70edd0337c7b4295eaabadf4dbd7ccf6-scaled.jpg?fit=1024%2C1024",
+          "text": "Bem-vindo a Bricklandia, lar de uma imensa aventura de direção LEGO® em um mundo aberto. Corra em qualquer lugar, jogue com qualquer pessoa, construa seus veículos dos sonhos e derrote uma série de rivais malucos em corridas para conquistar o cobiçado Troféu do Céu! Em LEGO 2K Drive, seus incríveis veículos transformáveis proporcionam a liberdade de correr sem interrupções por pistas empolgantes, terrenos off-road e águas abertas. Assuma o volante e prepare-se para muita exploração em mundo aberto e corridas emocionantes! Encare o empolgante Modo História, participe de uma única corrida ou de torneios da série Cup, e divirta-se com minijogos inusitados. Domine as técnicas de derrapagem, impulso e uso de power-ups para garantir a vitória!"
+        },
+        {
+          "title": "Powerwash Simulator",
+          "banner": "https://blog.playstation.com/tachyon/2023/11/2e277933f0ce8a1867407030b39b000a00ac19d2-scaled.jpg?fit=1024%2C1024",
+          "text": "Afaste suas preocupações com os sons reconfortantes da água de alta pressão. Ligue sua lavadora de alta pressão e remova cada partícula de sujeira e grime que encontrar. Construa seu próprio negócio de lavagem de alta pressão e desbloqueie novas ferramentas, melhorias e muito mais - tudo com a simples satisfação de lavar com alta pressão até obter um acabamento reluzente."
+        },
+        {
+          "title": "Sable",
+          "banner": "https://blog.playstation.com/tachyon/2023/11/889af2c4693d3ae932ec6bd9fcde2ec09bdf0618-scaled.jpg?fit=1024%2C1024",
+          "text": "Guie Sable em seu Deslizar; um rito de passagem que a levará por vastos desertos e paisagens fascinantes, marcadas pelos restos de naves espaciais e maravilhas antigas. Explore as dunas em sua moto voadora, suba em ruínas monumentais e encontre outros nômades enquanto desvenda mistérios há muito esquecidos e descobre quem ela realmente é por trás de sua máscara. Com seu estilo artístico único e trilha sonora original de Japanese Breakfast, mergulhe no mundo de Sable e explore tudo em seu próprio ritmo. Há muito neste mundo apenas esperando para ser descoberto. Não tenha medo. Dê o salto."
+        }
+      ]
     },
     {
       "banner": "https://pbs.twimg.com/media/F_vR2XTWQAAjdls?format=jpg&name=large",
