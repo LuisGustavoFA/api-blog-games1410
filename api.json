@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "banner": "https://s2-techtudo.glbimg.com/9ZEg445-_T6HbPE6Ftm9JYV9OiM=/0x0:1280x720/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/B/n/Z0AA8uTTSpuLY2IgIbhw/gainm3jwaaaydao.jpg",
+      "tags": [
+        "NOTÍCIA", 
+        "GTA"
+      ],
+      "title": "Rockstar revela o primeiro trailer de GTA 6",
+      "subtitle": "Após vazamento, Rockstar lança o primeiro trailer de GTA 6 antes da hora",
+      "text": "O video estava marcado para ir ao ar amanhã, dia 05/12, mas após vazar na internet, em baixa qualidade, a empresa optou por divulgar o video antecipadamente: 'Nosso trailer vazou, então assista ao filme real no YouTube: https://www.youtube.com/watch?v=QdBZY2fkU-0&t=1s'",
+      "info": {
+        "autor": "João Gabriel",
+        "time": "2023-12-04T23:27:00-03:00"
+      }
+    },
+    {
       "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/de50f2b0c73f8506d9dd7407ec23f849e4906880.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
       "tags": [
         "NOTÍCIA",
