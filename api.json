@@ -240,6 +240,46 @@
   ],
   "lists": [
     {
+      "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+      "tags": [
+        "LISTA"
+      ],
+      "title": "Jogos mais vendidos de 2023",
+      "subtitle": "Confira uma lista com os 5 jogos com maior número de vendas no ano de 2023",
+      "text": "texto",
+      "info": {
+        "autor": "Luis Gustavo",
+        "time": "2023-12-18T22:51:00-03:00"
+      }, 
+      "games": [
+        {
+          "title": "Final Fantasy XVI (~ 3 milhões de vendas)",
+          "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+          "text": "Final Fantasy XVI é um RPG eletrônico de ação em que os jogadores assumem o controle de Clive Rosfield e um conjunto alternante de companheiros controlados pela inteligência artificial, navegando através de áreas abertas segmentadas espalhadas pelos diferentes continentes de Valisthea."
+        },
+        {
+          "title": "Resident Evil 4 REMAKE (~ 5 milhões de vendas)",
+          "banner": "https://i.ytimg.com/vi_webp/bwxMrAy4z-s/maxresdefault.webp",
+          "text": "Em Resident Evil 4, você joga como Leon S. Kennedy, o protagonista de Resident Evil 2. Leon agora trabalha como agente do governo dos EUA. Ele é enviado a um vilarejo isolado na Europa após relatos da aparição da filha do presidente, que está desaparecida."
+        },
+        {
+          "title": "Diablo IV (~ 12 milhões de vendas)",
+          "banner": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt24fbc5431943b197/636d81343debb436bf972c0d/TreasureBeast_Blizzard.png?imwidth=&imdensity=2",
+          "text": "O retorno de Lilith desencadeia uma era de escuridão e sofrimento. Que destino aguardará a humanidade? Buscando refúgio do conflito eterno entre o Paraíso Celestial e o Inferno Ardente, Inárius e Lilith criaram Santuário e deram vida aos nefalem com a Pedra do Mundo roubada."
+        },
+        {
+          "title": "Hogwarts Legacy (12+ milhões de vendas)",
+          "banner": "https://t.ctcdn.com.br/zOH3rIh99gf69DMf8tNscwKFflU=/1024x576/smart/i417785.jpeg",
+          "text": "Hogwarts Legacy é um jogo eletrônico de RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros. Interactive Entertainment sob o selo Portkey Games. O jogo é ambientado no final do século XIX do universo de Harry Potter, um século antes dos eventos narrados nos livros de J.K. Rowling."
+        },
+        {
+          "title": "The Legend of Zelda: Tears of the Kingdom (18,5 milhões de vendas)",
+          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiN00q5UiP8xuISq_0xu8TJB_C-GMaFscJg&usqp=CAU",
+          "text": "Uma aventura épica lhe aguarda em The Legend of Zelda™: Tears of the Kingdom, exclusivamente para o console Nintendo Switch™. Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus."
+        }
+      ]
+    },
+    {
       "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
       "tags": [
         "LISTA",
