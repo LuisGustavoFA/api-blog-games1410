@@ -284,79 +284,39 @@
         "LISTA",
         "MOBILE"
       ],
-      "title": "Melhores jogos mobile do mês de outubro",
-      "subtitle":"Confira a lista dos 5 jogos mobile com mais downloads no mês de Outubro de 2023",
-      "itens": [
-        {
-          "title": "Candy Crush",
-          "img": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
-          "text": "Recebeu 200 mil downloads este mês."
-        },
-        {
-          "title": "Roblox",
-          "img": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
-          "text": "Recebeu 260 mil downloads este mês."
-        },
-        {
-          "title": "Brawl Stars",
-          "img": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
-          "text": "Recebeu 270 mil downloads este mês."
-        },
-        {
-          "title": "PUBG Mobile",
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
-          "text": "Recebeu 330 mil downloads este mês."
-        },
-        {
-          "title": "COD Mobile",
-          "img": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
-          "text": "Recebeu 480 mil downloads este mês."
-        }
-      ],
+      "title": "Jogos mobile com mais downloads em Outubro",
+      "subtitle": "Confira uma lista com os 5 jogos com maior número de instalações no mês de Outubro de 2023",
       "info": {
         "autor": "Luis Gustavo",
-        "time": "2023-11-06T11:00:00-03:00"
-      }
-    },
-    {
-      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-      "tags": [
-        "LISTA",
-        "PLACEHOLDER"
-      ],
-      "title": "List Title Placeholder",
-      "subtitle":"List Subtitle Placeholder",
-      "itens": [
+        "time": "2023-11-12T20:30:00-03:00"
+      }, 
+      "games": [
         {
-          "title": "Item 5 title placeholder",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-          "text": "Item 5 text placeholder"
+          "title": "Candy Crush (135mi)",
+          "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
+          "text": "Candy Crush é um jogo de raciocínio para Android, iOS, Windows Phone e Facebook que tem como desafio combinar formatos de doces semelhantes com as suas respectivas cores. Trata-se de um aplicativo parecido com o. Para jogar Candy Crush online, basta acessar a página do game no Facebook."
         },
         {
-          "title": "Item 4 title placeholder",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-          "text": "Item 4 text placeholder"
+          "title": "Roblox (140mi)",
+          "banner": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
+          "text": "Roblox é um sistema de criação de jogos online onde a maior parte do conteúdo é criada por criadores de jogos “amadores” no estúdio Roblox. Esses criadores de jogos são capazes de criar e publicar jogos para a comunidade usando ferramentas simples."
         },
         {
-          "title": "Item 3 title placeholder",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-          "text": "Item 3 text placeholder"
+          "title": "Brawl Stars (150mi)",
+          "banner": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
+          "text": "Brawl Stars é um jogo eletrônico mobile focado nos estilos de arena de batalha, multijogador online e habilidades em terceira pessoa, desenvolvido e publicado pela empresa produtora de jogos Supercell. Foi lançado globalmente (exceto na China) no dia 12 de dezembro de 2018 para iOS e Android."
         },
         {
-          "title": "Item 2 title placeholder",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-          "text": "Item 2 text placeholder"
+          "title": "PUBG Mobile (155mi)",
+          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
+          "text": "PUBG MOBILE é o Battle Royale original no celular, além de um dos melhores jogos de tiro. Prepare suas armas de fogo, responda ao chamado da batalha em PUBG MOBILE e largue o dedo no gatilho. PUBG MOBILE conta com vários mapas e mecânicas de jogabilidade que oferecem a você uma experiência de sobrevivência emocionante."
         },
         {
-          "title": "Item 1 title placeholder",
-          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png",
-          "text": "Item 1 text placeholder"
+          "title": "COD Mobile (180mi)",
+          "banner": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
+          "text": "Curta esse jogo de tiro em primeira pessoa (FPS) e explore modos multijogador populares, como Mata-Mata em Equipe, Dominação e Baixa Confirmada em mapas icônicos como Shipment, Raid e Standoff. Tudo isso em CALL OF DUTY®: MOBILE! Forme um esquadrão com outros jogadores e sobreviva à experiência multijogador."
         }
-      ],
-      "info": {
-        "autor": "Placeholder Autor",
-        "time": "2000-01-01T12:00:00-03:00"
-      }
+      ]
     }
   ]
 }
