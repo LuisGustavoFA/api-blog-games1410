@@ -2,321 +2,395 @@
   "news": [
     {
       "banner": "https://img.youtube.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
-      "tags": [
-        "NOTÍCIA", 
-        "GTA"
-      ],
-      "title": "Rockstar revela o primeiro trailer de GTA 6",
-      "subtitle": "Após vazamento, Rockstar lança o primeiro trailer de GTA 6 antes da hora",
-      "text": "O video estava marcado para ir ao ar amanhã, dia 05/12, mas após vazar na internet, em baixa qualidade, a empresa optou por divulgar o video antecipadamente: [socialPost] \"Nosso trailer vazou, então assista ao trailer real no YouTube:\" [socialVideo]",
+      "games": [],
       "info": {
-        "autor": "João Gabriel",
+        "author": "João Gabriel",
         "time": "2023-12-04T23:27:00-03:00"
       },
       "social": {
-        "video": "QdBZY2fkU-0",
-        "post": "1731813331244085531"
-      } 
+        "x": ["1731813331244085531"],
+        "youtube": ["QdBZY2fkU-0"]
+      },
+      "subtitle": "Após vazamento, Rockstar lança o primeiro trailer de GTA 6 antes da hora",
+      "tags": [
+        "NOTÍCIA",
+        "GTA"
+      ],
+      "text": "O video estava marcado para ir ao ar amanhã, dia 05/12, mas após vazar na internet, em baixa qualidade, a empresa optou por divulgar o video antecipadamente: [x[0]] \"Nosso trailer vazou, então assista ao trailer real no YouTube:\" [youtube[0]]",
+      "title": "Rockstar revela o primeiro trailer de GTA 6"
     },
     {
       "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/de50f2b0c73f8506d9dd7407ec23f849e4906880.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
+      "games": [
+        {
+          "banner": "https://blog.playstation.com/tachyon/2023/11/9fa10a9b70edd0337c7b4295eaabadf4dbd7ccf6-scaled.jpg?fit=1024%2C1024",
+          "text": "Bem-vindo a Bricklandia, lar de uma imensa aventura de direção LEGO® em um mundo aberto. Corra em qualquer lugar, jogue com qualquer pessoa, construa seus veículos dos sonhos e derrote uma série de rivais malucos em corridas para conquistar o cobiçado Troféu do Céu! Em LEGO 2K Drive, seus incríveis veículos transformáveis proporcionam a liberdade de correr sem interrupções por pistas empolgantes, terrenos off-road e águas abertas. Assuma o volante e prepare-se para muita exploração em mundo aberto e corridas emocionantes! Encare o empolgante Modo História, participe de uma única corrida ou de torneios da série Cup, e divirta-se com minijogos inusitados. Domine as técnicas de derrapagem, impulso e uso de power-ups para garantir a vitória!",
+          "title": "Lego 2K Drive"
+        },
+        {
+          "banner": "https://blog.playstation.com/tachyon/2023/11/2e277933f0ce8a1867407030b39b000a00ac19d2-scaled.jpg?fit=1024%2C1024",
+          "text": "Afaste suas preocupações com os sons reconfortantes da água de alta pressão. Ligue sua lavadora de alta pressão e remova cada partícula de sujeira e grime que encontrar. Construa seu próprio negócio de lavagem de alta pressão e desbloqueie novas ferramentas, melhorias e muito mais - tudo com a simples satisfação de lavar com alta pressão até obter um acabamento reluzente.",
+          "title": "Powerwash Simulator"
+        },
+        {
+          "banner": "https://blog.playstation.com/tachyon/2023/11/889af2c4693d3ae932ec6bd9fcde2ec09bdf0618-scaled.jpg?fit=1024%2C1024",
+          "text": "Guie Sable em seu Deslizar; um rito de passagem que a levará por vastos desertos e paisagens fascinantes, marcadas pelos restos de naves espaciais e maravilhas antigas. Explore as dunas em sua moto voadora, suba em ruínas monumentais e encontre outros nômades enquanto desvenda mistérios há muito esquecidos e descobre quem ela realmente é por trás de sua máscara. Com seu estilo artístico único e trilha sonora original de Japanese Breakfast, mergulhe no mundo de Sable e explore tudo em seu próprio ritmo. Há muito neste mundo apenas esperando para ser descoberto. Não tenha medo. Dê o salto.",
+          "title": "Sable"
+        }
+      ],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2023-11-29T09:50:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "A Sony revelou nessa quarta-feira (29/11) os jogos que estarão disponíveis para os assinantes",
       "tags": [
         "NOTÍCIA",
         "SONY"
       ],
-      "title": "Playstation Plus jogos mensais de dezembro revelados",
-      "subtitle": "A Sony revelou nessa quarta-feira (29/11) os jogos que estarão disponíveis para os assinantes",
       "text": "Os jogos são Lego 2K Drive, Powerwash Simulator e Sable. Todos ficarão disponíveis na próxima terça-feira (05/12) para os assinantes",
-      "info": {
-        "autor": "João Gabriel",
-        "time": "2023-11-29T09:50:00-03:00"
-      }, 
-      "games": [
-        {
-          "title": "Lego 2K Drive",
-          "banner": "https://blog.playstation.com/tachyon/2023/11/9fa10a9b70edd0337c7b4295eaabadf4dbd7ccf6-scaled.jpg?fit=1024%2C1024",
-          "text": "Bem-vindo a Bricklandia, lar de uma imensa aventura de direção LEGO® em um mundo aberto. Corra em qualquer lugar, jogue com qualquer pessoa, construa seus veículos dos sonhos e derrote uma série de rivais malucos em corridas para conquistar o cobiçado Troféu do Céu! Em LEGO 2K Drive, seus incríveis veículos transformáveis proporcionam a liberdade de correr sem interrupções por pistas empolgantes, terrenos off-road e águas abertas. Assuma o volante e prepare-se para muita exploração em mundo aberto e corridas emocionantes! Encare o empolgante Modo História, participe de uma única corrida ou de torneios da série Cup, e divirta-se com minijogos inusitados. Domine as técnicas de derrapagem, impulso e uso de power-ups para garantir a vitória!"
-        },
-        {
-          "title": "Powerwash Simulator",
-          "banner": "https://blog.playstation.com/tachyon/2023/11/2e277933f0ce8a1867407030b39b000a00ac19d2-scaled.jpg?fit=1024%2C1024",
-          "text": "Afaste suas preocupações com os sons reconfortantes da água de alta pressão. Ligue sua lavadora de alta pressão e remova cada partícula de sujeira e grime que encontrar. Construa seu próprio negócio de lavagem de alta pressão e desbloqueie novas ferramentas, melhorias e muito mais - tudo com a simples satisfação de lavar com alta pressão até obter um acabamento reluzente."
-        },
-        {
-          "title": "Sable",
-          "banner": "https://blog.playstation.com/tachyon/2023/11/889af2c4693d3ae932ec6bd9fcde2ec09bdf0618-scaled.jpg?fit=1024%2C1024",
-          "text": "Guie Sable em seu Deslizar; um rito de passagem que a levará por vastos desertos e paisagens fascinantes, marcadas pelos restos de naves espaciais e maravilhas antigas. Explore as dunas em sua moto voadora, suba em ruínas monumentais e encontre outros nômades enquanto desvenda mistérios há muito esquecidos e descobre quem ela realmente é por trás de sua máscara. Com seu estilo artístico único e trilha sonora original de Japanese Breakfast, mergulhe no mundo de Sable e explore tudo em seu próprio ritmo. Há muito neste mundo apenas esperando para ser descoberto. Não tenha medo. Dê o salto."
-        }
-      ]
+      "title": "Playstation Plus jogos mensais de dezembro revelados"
     },
     {
       "banner": "https://pbs.twimg.com/media/F_vR2XTWQAAjdls?format=jpg&name=large",
-      "tags": [
-        "NOTÍCIA", 
-        "FORTNITE"
-      ],
-      "title": "Invencível, Omni-Man e Eve Atômica chegaram ao Fortnite",
-      "subtitle": "A mais nova parceria de Fortnite já esta disponível na loja",
-      "text": "As skins da serie de sucesso da Amazon já estão disponíveis hoje (24/11), os personagens dísponiveis são Invencível, Omni-Man e Eve Atômica, cada skin custando 1500 V-Bucks, e o bundle com as três custa 2800 V-Bucks. Confira o anúncio pela conta oficial do jogo no X (Twitter): [socialPost]",
+      "games": [],
       "info": {
-        "autor": "João Gabriel",
+        "author": "João Gabriel",
         "time": "2023-11-25T23:46:00-03:00"
       },
       "social": {
-        "post": "1728205634988851276"
-      }
+        "post": "1728205634988851276",
+        "video": ""
+      },
+      "subtitle": "A mais nova parceria de Fortnite já esta disponível na loja",
+      "tags": [
+        "NOTÍCIA",
+        "FORTNITE"
+      ],
+      "text": "As skins da serie de sucesso da Amazon já estão disponíveis hoje (24/11), os personagens dísponiveis são Invencível, Omni-Man e Eve Atômica, cada skin custando 1500 V-Bucks, e o bundle com as três custa 2800 V-Bucks. Confira o anúncio pela conta oficial do jogo no X (Twitter): [x[0]]",
+      "title": "Invencível, Omni-Man e Eve Atômica chegaram ao Fortnite"
     },
     {
       "banner": "https://cdn.ome.lt/0sxfD9ZJGsUQKk7QOXJzvEDz5AU=/1200x630/smart/extras/conteudos/tga_2022_GGNZSUw.webp",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-11-25T11:00:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Finalmente foram anunciados os jogos selecionados para o grande prêmio de jogo do ano",
       "tags": [
         "NOTÍCIA"
       ],
-      "title": "Confira os jogos indicados para concorrer ao prêmio TGA 2023",
-      "subtitle": "Finalmente foram anunciados os jogos selecionados para o grande prêmio de jogo do ano",
       "text": "Os indicados para 'Jogo do Ano' são: Alan Wake 2 (Remedy Entertainment), Super Mario Bros. Wonder (Nintendo), The Legend of Zelda: Tears of the Kingdom (Nintendo), Baldur's Gate III (Larian Studios), Resident Evil 4 (Capcom) e Marvel's Spider-Man 2 (Insomniac Games).",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-11-25T11:00:00-03:00"
-      }
+      "title": "Confira os jogos indicados para concorrer ao prêmio TGA 2023"
     },
     {
       "banner": "https://blog.playstation.com/tachyon/2023/11/16eaf67a7743990f759c08b345d0bb81d33e56b2.png?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
-      "tags": [
-        "NOTÍCIA",
-        "SONY"
-      ],
-      "title": "The Last of Us Part II Remastered oficialmente anunciado",
-      "subtitle": "Naughty Dog anuncia remasterização de seu mais novo jogo.",
-      "text": "A versão trará melhorias em diversos aspectos comparado ao jogo original, e contará com novas fases removidas. Para quem já possuía o jogo em sua versão de PS4, ele custará somente USD$10 (aproximadamente R$50). Confira o trailer: [socialVideo]",
+      "games": [],
       "info": {
-        "autor": "Luis Gustavo",
+        "author": "Luis Gustavo",
         "time": "2023-11-19T09:50:00-03:00"
       },
       "social": {
-        "video": "Ye3st9z6jQY"
-      }
+        "x": [""],
+        "youtube": ["Ye3st9z6jQY"]
+      },
+      "subtitle": "Naughty Dog anuncia remasterização de seu mais novo jogo.",
+      "tags": [
+        "NOTÍCIA",
+        "SONY"
+      ],
+      "text": "A versão trará melhorias em diversos aspectos comparado ao jogo original, e contará com novas fases removidas. Para quem já possuía o jogo em sua versão de PS4, ele custará somente USD$10 (aproximadamente R$50). Confira o trailer: [youtube[0]]",
+      "title": "The Last of Us Part II Remastered oficialmente anunciado"
     },
     {
       "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/8bfb3a1a3ffd546cef661b3113f973b4da038d1e.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
+      "games": [],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2023-11-21T10:30:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Sony revelou nessa quarta-feira (15/11) os novos jogos que estarão disponíveis para os assinantes",
       "tags": [
         "NOTÍCIA",
         "SONY"
       ],
-      "title": "Playstation Plus Extra e Deluxe de novembro reveladas",
-      "subtitle": "Sony revelou nessa quarta-feira (15/11) os novos jogos que estarão disponíveis para os assinantes",
       "text": "Os títulos do plano extra incluem Teardown, Dragon's Dogma: Dark Arisen, Mobile Suit Gundam: Extreme vs. Maxi Boost On, Dead Island: Riptide Definitive Edition, Superliminal, Eiyuden Chronicle: Rising e Nobunaga’s Ambition: Taishi. Enquanto os do plano deluxe são: Grandia, Get Moto, Up, Klonoa Phantasy Reverie Series, PaRappa the Rapper 2. O Destaque do Mês é Teardown, que ficará disponível no dia do lançamento.",
-      "info": {
-        "autor": "João Gabriel",
-        "time": "2023-11-21T10:30:00-03:00"
-      }
+      "title": "Playstation Plus Extra e Deluxe de novembro reveladas"
     },
     {
       "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/11/a6a021b23839a5a2d23aa86efe1767147070cd34.jpg?resize=1088%2C612&crop_strategy=smart&zoom=0.5",
+      "games": [],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2023-11-19T09:50:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Sony revelou nessa quarta-feira (01/11) os novos jogos que estarão disponíveis para os assinantes",
       "tags": [
         "NOTÍCIA",
         "SONY"
       ],
-      "title": "Playstation Plus jogos mensais de novembro revelados",
-      "subtitle": "Sony revelou nessa quarta-feira (01/11) os novos jogos que estarão disponíveis para os assinantes",
       "text": "Os jogos são Mafia II: Definitive Edition, Dragon Ball: The Breakers e Aliens: Fireteam Elite. Todos ficarão disponíveis na próxima terça-feira (07/11) para os assinantes",
-      "info": {
-        "autor": "João Gabriel",
-        "time": "2023-11-19T09:50:00-03:00"
-      }
+      "title": "Playstation Plus jogos mensais de novembro revelados"
     },
     {
       "banner": "https://gh.cdn.sewest.net/assets/ident/pulse/8f595c57/FUNGOR_PULSE_Ver_A-ygbowjoxi.jpg?quality=65",
+      "games": [],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2023-10-31T10:20:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Anunciado nessa segunda-feira (30/10), KINGDOM HEARTS Missing-Link chega em 2024",
       "tags": [
         "NOTÍCIA",
         "MOBILE"
       ],
-      "title": "Square Enix anuncia jogo mobile de KINGDOM HEARTS",
-      "subtitle": "Anunciado nessa segunda-feira (30/10), KINGDOM HEARTS Missing-Link chega em 2024",
       "text": "Em breve um texto será escrito aqui :)",
-      "info": {
-        "autor": "João Gabriel",
-        "time": "2023-10-31T10:20:00-03:00"
-      }
+      "title": "Square Enix anuncia jogo mobile de KINGDOM HEARTS"
     },
     {
       "banner": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S1_2560x1440-16b7f817d8803517fbecbf3f175ac997",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-10-19T10:40:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Mais jogos são liberados sem custo na loja",
       "tags": [
         "NOTÍCIA",
         "PC"
       ],
-      "title": "Dois novos jogos ficam de graça na Epic Games Store",
-      "subtitle": "Mais jogos são liberados sem custo na loja",
       "text": "Já é possível baixar sem pagar dois novos jogos pela Epic Games Store. Liberados nessa quinta-feira (19/10), os jogos são 'The Evil Within' e 'Eternal Threads'. Supostamente, na próxima semana também será liberado a sequência de The Evil Within, 'The Evil Within 2', além de outro jogo: 'Tandem: a Tale of Shadows'.",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-10-19T10:40:00-03:00"
-      }
+      "title": "Dois novos jogos ficam de graça na Epic Games Store"
     },
     {
       "banner": "https://blog.playstation.com/tachyon/2023/10/776ce4ee990ac7ce9bbba981ee37d966493e0997.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
+      "games": [],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2023-10-19T17:10:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Sony revelou nessa quarta-feira (11/10) os novos jogos que estarão disponíveis para os assinantes",
       "tags": [
         "NOTÍCIA",
         "SONY"
       ],
-      "title": "Playstation Plus Extra e Premium de outubro revelada",
-      "subtitle": "Sony revelou nessa quarta-feira (11/10) os novos jogos que estarão disponíveis para os assinantes",
       "text": "Todos os jogos ficarão disponíveis na próxima terça-feira, a lista inclui Gotham Knights, Disco Elysium – The Final Cut, The Dark Pictures Anthology: House of Ashes, Alien: Isolation, Dead Island Definitive Edition, Outlast 2, Elite Dangerous, FAR: Changing Tides, Gungrave G.O.R.E., Eldest Souls, Röki, e para assinantes os premium também ficará disponível Tekken 6, Soulcalibur: Broken Destiny, Ape Escape Academy, IQ Final.",
-      "info": {
-        "autor": "João Gabriel",
-        "time": "2023-10-19T17:10:00-03:00"
-      }
+      "title": "Playstation Plus Extra e Premium de outubro revelada"
     },
     {
       "banner": "https://blog.br.playstation.com/tachyon/sites/4/2023/10/6fd08b309a6ed2a3b70baa64b088f5104c538e2e.png?resize=1088%2C612&crop_strategy=smart",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-10-19T17:00:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Nova versão do console da 'nova geração' é anunciado pela gigante essa semana.",
       "tags": [
         "NOTÍCIA",
         "SONY"
       ],
-      "title": "Novo modelo do PS5 é anunciado pela Sony",
-      "subtitle": "Nova versão do console da 'nova geração' é anunciado pela gigante essa semana.",
       "text": "Foi anunciado nessa quarta-feira (11/10) uma nova versão do console PlayStation 5. Essa versão promete ser cerca de 30% menor que a versão anterior, e vem com um SSD de 1tb de armazenamento, ou seja, 175 gigabytes a mais que a anterior.",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-10-19T17:00:00-03:00"
-      }
+      "title": "Novo modelo do PS5 é anunciado pela Sony"
     },
     {
       "banner": "https://t2.tudocdn.net/687809?w=1200&h=1200",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-10-19T15:30:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Jogo mais esperado dos ultimos anos teria data finalmente revelada por Rockstar, segundo rumor",
       "tags": [
         "NOTÍCIA",
         "VAZAMENTO"
       ],
-      "title": "GTA 6 tem data de lançamento supostamente anunciada",
-      "subtitle": "Jogo mais esperado dos ultimos anos teria data finalmente revelada por Rockstar, segundo rumor",
       "text": "Nessa quinta-feira (12/10) um leaker chamado 'RSLEAKER2132', com um bom histórico em vazamentos do tipo, disse que segundo suas fontes o jogo estará marcado para lançar no primeiro semestre de 2025. Não temos nenhuma informação oficial sobre o lançamento do jogo até então.",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-10-19T15:30:00-03:00"
-      }
+      "title": "GTA 6 tem data de lançamento supostamente anunciada"
     }
   ],
   "reviews": [
     {
       "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-11-24T10:30:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Review do forte concorrente a jogo do ano de 2023",
       "tags": [
         "REVIEW",
         "LANÇAMENTO"
       ],
-      "title": "Review: Baldurs Gate III",
-      "subtitle": "Review do forte concorrente a jogo do ano de 2023",
       "text": "Em breve um texto será escrito aqui :)",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-11-24T10:30:00-03:00"
-      }
+      "title": "Review: Baldurs Gate III"
     },
     {
       "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/BiS5QP6h4506JHyJlZlVzK9D.jpg",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-11-24T10:15:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Remake do clássico jogo de ação da CAPCOM",
       "tags": [
         "REVIEW"
       ],
-      "title": "Review: Resident Evil 4 (REMAKE)",
-      "subtitle": "Remake do clássico jogo de ação da CAPCOM",
       "text": "Em breve um texto será escrito aqui :)",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-11-24T10:15:00-03:00"
-      }
+      "title": "Review: Resident Evil 4 (REMAKE)"
     },
     {
       "banner": "https://files.tecnoblog.net/wp-content/uploads/2019/03/brawlstars-700x394.jpg",
+      "games": [],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-11-02T13:50:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Jogo mobile multijogador online desenvolvido pela Supercell",
       "tags": [
         "REVIEW",
         "MOBILE"
       ],
-      "title": "Review: Brawl Stars",
-      "subtitle": "Jogo mobile multijogador online desenvolvido pela Supercell",
       "text": "Em breve um texto será escrito aqui :)",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-11-02T13:50:00-03:00"
-      }
+      "title": "Review: Brawl Stars"
     }
   ],
   "lists": [
     {
       "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+      "games": [
+        {
+          "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
+          "text": "Final Fantasy XVI é um RPG eletrônico de ação em que os jogadores assumem o controle de Clive Rosfield e um conjunto alternante de companheiros controlados pela inteligência artificial, navegando através de áreas abertas segmentadas espalhadas pelos diferentes continentes de Valisthea.",
+          "title": "Final Fantasy XVI (~ 3 milhões de vendas)"
+        },
+        {
+          "banner": "https://i.ytimg.com/vi_webp/bwxMrAy4z-s/maxresdefault.webp",
+          "text": "Em Resident Evil 4, você joga como Leon S. Kennedy, o protagonista de Resident Evil 2. Leon agora trabalha como agente do governo dos EUA. Ele é enviado a um vilarejo isolado na Europa após relatos da aparição da filha do presidente, que está desaparecida.",
+          "title": "Resident Evil 4 REMAKE (~ 5 milhões de vendas)"
+        },
+        {
+          "banner": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt24fbc5431943b197/636d81343debb436bf972c0d/TreasureBeast_Blizzard.png?imwidth=&imdensity=2",
+          "text": "O retorno de Lilith desencadeia uma era de escuridão e sofrimento. Que destino aguardará a humanidade? Buscando refúgio do conflito eterno entre o Paraíso Celestial e o Inferno Ardente, Inárius e Lilith criaram Santuário e deram vida aos nefalem com a Pedra do Mundo roubada.",
+          "title": "Diablo IV (~ 12 milhões de vendas)"
+        },
+        {
+          "banner": "https://t.ctcdn.com.br/zOH3rIh99gf69DMf8tNscwKFflU=/1024x576/smart/i417785.jpeg",
+          "text": "Hogwarts Legacy é um jogo eletrônico de RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros. Interactive Entertainment sob o selo Portkey Games. O jogo é ambientado no final do século XIX do universo de Harry Potter, um século antes dos eventos narrados nos livros de J.K. Rowling.",
+          "title": "Hogwarts Legacy (12+ milhões de vendas)"
+        },
+        {
+          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiN00q5UiP8xuISq_0xu8TJB_C-GMaFscJg&usqp=CAU",
+          "text": "Uma aventura épica lhe aguarda em The Legend of Zelda™: Tears of the Kingdom, exclusivamente para o console Nintendo Switch™. Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus.",
+          "title": "The Legend of Zelda: Tears of the Kingdom (18,5 milhões de vendas)"
+        }
+      ],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-12-18T22:51:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Confira uma lista com os 5 jogos com maior número de vendas no ano de 2023",
       "tags": [
         "LISTA"
       ],
-      "title": "Jogos mais vendidos de 2023",
-      "subtitle": "Confira uma lista com os 5 jogos com maior número de vendas no ano de 2023",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-12-18T22:51:00-03:00"
-      }, 
-      "games": [
-        {
-          "title": "Final Fantasy XVI (~ 3 milhões de vendas)",
-          "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1007/M1j1kwGXMhbfA8OQo3r7wrMw.jpg",
-          "text": "Final Fantasy XVI é um RPG eletrônico de ação em que os jogadores assumem o controle de Clive Rosfield e um conjunto alternante de companheiros controlados pela inteligência artificial, navegando através de áreas abertas segmentadas espalhadas pelos diferentes continentes de Valisthea."
-        },
-        {
-          "title": "Resident Evil 4 REMAKE (~ 5 milhões de vendas)",
-          "banner": "https://i.ytimg.com/vi_webp/bwxMrAy4z-s/maxresdefault.webp",
-          "text": "Em Resident Evil 4, você joga como Leon S. Kennedy, o protagonista de Resident Evil 2. Leon agora trabalha como agente do governo dos EUA. Ele é enviado a um vilarejo isolado na Europa após relatos da aparição da filha do presidente, que está desaparecida."
-        },
-        {
-          "title": "Diablo IV (~ 12 milhões de vendas)",
-          "banner": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt24fbc5431943b197/636d81343debb436bf972c0d/TreasureBeast_Blizzard.png?imwidth=&imdensity=2",
-          "text": "O retorno de Lilith desencadeia uma era de escuridão e sofrimento. Que destino aguardará a humanidade? Buscando refúgio do conflito eterno entre o Paraíso Celestial e o Inferno Ardente, Inárius e Lilith criaram Santuário e deram vida aos nefalem com a Pedra do Mundo roubada."
-        },
-        {
-          "title": "Hogwarts Legacy (12+ milhões de vendas)",
-          "banner": "https://t.ctcdn.com.br/zOH3rIh99gf69DMf8tNscwKFflU=/1024x576/smart/i417785.jpeg",
-          "text": "Hogwarts Legacy é um jogo eletrônico de RPG de ação desenvolvido pela Avalanche Software e publicado pela Warner Bros. Interactive Entertainment sob o selo Portkey Games. O jogo é ambientado no final do século XIX do universo de Harry Potter, um século antes dos eventos narrados nos livros de J.K. Rowling."
-        },
-        {
-          "title": "The Legend of Zelda: Tears of the Kingdom (18,5 milhões de vendas)",
-          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiN00q5UiP8xuISq_0xu8TJB_C-GMaFscJg&usqp=CAU",
-          "text": "Uma aventura épica lhe aguarda em The Legend of Zelda™: Tears of the Kingdom, exclusivamente para o console Nintendo Switch™. Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus."
-        }
-      ]
+      "text": "",
+      "title": "Jogos mais vendidos de 2023"
     },
     {
       "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
+      "games": [
+        {
+          "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
+          "text": "Candy Crush é um jogo de raciocínio para Android, iOS, Windows Phone e Facebook que tem como desafio combinar formatos de doces semelhantes com as suas respectivas cores. Trata-se de um aplicativo parecido com o. Para jogar Candy Crush online, basta acessar a página do game no Facebook.",
+          "title": "Candy Crush (135mi)"
+        },
+        {
+          "banner": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
+          "text": "Roblox é um sistema de criação de jogos online onde a maior parte do conteúdo é criada por criadores de jogos “amadores” no estúdio Roblox. Esses criadores de jogos são capazes de criar e publicar jogos para a comunidade usando ferramentas simples.",
+          "title": "Roblox (140mi)"
+        },
+        {
+          "banner": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
+          "text": "Brawl Stars é um jogo eletrônico mobile focado nos estilos de arena de batalha, multijogador online e habilidades em terceira pessoa, desenvolvido e publicado pela empresa produtora de jogos Supercell. Foi lançado globalmente (exceto na China) no dia 12 de dezembro de 2018 para iOS e Android.",
+          "title": "Brawl Stars (150mi)"
+        },
+        {
+          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
+          "text": "PUBG MOBILE é o Battle Royale original no celular, além de um dos melhores jogos de tiro. Prepare suas armas de fogo, responda ao chamado da batalha em PUBG MOBILE e largue o dedo no gatilho. PUBG MOBILE conta com vários mapas e mecânicas de jogabilidade que oferecem a você uma experiência de sobrevivência emocionante.",
+          "title": "PUBG Mobile (155mi)"
+        },
+        {
+          "banner": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
+          "text": "Curta esse jogo de tiro em primeira pessoa (FPS) e explore modos multijogador populares, como Mata-Mata em Equipe, Dominação e Baixa Confirmada em mapas icônicos como Shipment, Raid e Standoff. Tudo isso em CALL OF DUTY®: MOBILE! Forme um esquadrão com outros jogadores e sobreviva à experiência multijogador.",
+          "title": "COD Mobile (180mi)"
+        }
+      ],
+      "info": {
+        "author": "Luis Gustavo",
+        "time": "2023-11-12T20:30:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "Confira uma lista com os 5 jogos com maior número de instalações no mês de Outubro de 2023",
       "tags": [
         "LISTA",
         "MOBILE"
       ],
-      "title": "Jogos mobile com mais downloads em Outubro",
-      "subtitle": "Confira uma lista com os 5 jogos com maior número de instalações no mês de Outubro de 2023",
-      "info": {
-        "autor": "Luis Gustavo",
-        "time": "2023-11-12T20:30:00-03:00"
-      }, 
-      "games": [
-        {
-          "title": "Candy Crush (135mi)",
-          "banner": "https://files.tecnoblog.net/wp-content/uploads/2020/09/candycrush.png",
-          "text": "Candy Crush é um jogo de raciocínio para Android, iOS, Windows Phone e Facebook que tem como desafio combinar formatos de doces semelhantes com as suas respectivas cores. Trata-se de um aplicativo parecido com o. Para jogar Candy Crush online, basta acessar a página do game no Facebook."
-        },
-        {
-          "title": "Roblox (140mi)",
-          "banner": "https://t.ctcdn.com.br/JMBb4josoticTIMAnrhunB8Bxuw=/1920x1080/smart/i12825.jpeg",
-          "text": "Roblox é um sistema de criação de jogos online onde a maior parte do conteúdo é criada por criadores de jogos “amadores” no estúdio Roblox. Esses criadores de jogos são capazes de criar e publicar jogos para a comunidade usando ferramentas simples."
-        },
-        {
-          "title": "Brawl Stars (150mi)",
-          "banner": "https://static1-br.millenium.gg/articles/5/13/76/5/@/150879-buzz-amp_main_media_schema-1.jpg",
-          "text": "Brawl Stars é um jogo eletrônico mobile focado nos estilos de arena de batalha, multijogador online e habilidades em terceira pessoa, desenvolvido e publicado pela empresa produtora de jogos Supercell. Foi lançado globalmente (exceto na China) no dia 12 de dezembro de 2018 para iOS e Android."
-        },
-        {
-          "title": "PUBG Mobile (155mi)",
-          "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm26WSirHaua_0uLKcRYNoRZWh1LBVAEbWQ&usqp=CAU",
-          "text": "PUBG MOBILE é o Battle Royale original no celular, além de um dos melhores jogos de tiro. Prepare suas armas de fogo, responda ao chamado da batalha em PUBG MOBILE e largue o dedo no gatilho. PUBG MOBILE conta com vários mapas e mecânicas de jogabilidade que oferecem a você uma experiência de sobrevivência emocionante."
-        },
-        {
-          "title": "COD Mobile (180mi)",
-          "banner": "https://dotesports.com/br/wp-content/uploads/sites/3/2021/02/11123637/GarenaWorld.png",
-          "text": "Curta esse jogo de tiro em primeira pessoa (FPS) e explore modos multijogador populares, como Mata-Mata em Equipe, Dominação e Baixa Confirmada em mapas icônicos como Shipment, Raid e Standoff. Tudo isso em CALL OF DUTY®: MOBILE! Forme um esquadrão com outros jogadores e sobreviva à experiência multijogador."
-        }
-      ]
+      "text": "",
+      "title": "Jogos mobile com mais downloads em Outubro"
     }
-  ]
+  ]  
 }
