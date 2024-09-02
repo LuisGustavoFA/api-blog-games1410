@@ -1,4 +1,39 @@
 {
+  {
+      "banner": "https://blog.playstation.com/tachyon/2024/08/005f8b6b40944cf87bdc8869a226b393c5f8640c.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
+      "games": [
+        {
+          "banner": "https://blog.playstation.com/uploads/2024/08/4a12eba7afb605d979f03e6c95db50506fa43ba4-scaled.jpg",
+          "text": "Viva sua fantasia no quadribol! Levante voo em uma das posições clássicas – artilheiro, apanhador, goleiro ou batedor –, cada uma com seu estilo de jogo único. Voe por arenas de quadribol lendárias e mapas novos que revelam áreas nunca vistas do mundo da bruxaria.",
+          "title": "Harry Potter: Campeões do Quadribol | PS4, PS5"
+        },
+        {
+          "banner": "https://blog.playstation.com/uploads/2024/08/891d2ecbbb9ace33d85bc663587faa7b41cbce24-scaled.jpg",
+          "text": "Rebata a bola com tudo, viva momentos decisivos do jogo e torne-se uma lenda do beisebol. O MLB® The Show™ 24 tem o que você precisa para trilhar uma grande carreira no beisebol.",
+          "title": "MLB The Show 24 | PS4, PS5"
+        },
+        {
+          "banner": "https://blog.playstation.com/uploads/2024/08/8a12d1bffe69f275a1462315d7110c4a58ab5407-scaled.jpg",
+          "text": "Little Nightmares II se passa em um mundo distorcido que existe entre os sonhos e a realidade, onde crianças observam horrorizadas o mundo que as espera. Junte-se ao novo protagonista Mono, e sua anti-heroína favorita, Six, enquanto eles lutam, se esgueiram e resolvem quebra-cabeças neste trecho inédito do universo de Little Nightmares.",
+          "title": "Little Nightmares II | PS4, PS5"
+        }
+      ],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2024-09-01T22:38:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": [""]
+      },
+      "subtitle": "A Sony revelou na última quarta-feira (28/08) os jogos que estarão disponíveis para os assinantes",
+      "tags": [
+        "NOTÍCIA",
+        "SONY"
+      ],
+      "text": "Os jogos são Harry Potter: Campeões do Quadribol, MLB The Show 24 e Little Nightmares II. Todos ficarão disponíveis na próxima terça-feira (03/09) para os assinantes, O destaque é Harry Potter: Campeões do Quadribol, que será lançado no mesmo dia.",
+      "title": "Playstation Plus: jogos mensais de setembro revelados"
+    },
   "news": [
     {
       "banner": "https://img.youtube.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
@@ -52,7 +87,7 @@
         "SONY"
       ],
       "text": "Os jogos são Lego 2K Drive, Powerwash Simulator e Sable. Todos ficarão disponíveis na próxima terça-feira (05/12) para os assinantes",
-      "title": "Playstation Plus jogos mensais de dezembro revelados"
+      "title": "Playstation Plus: jogos mensais de dezembro revelados"
     },
     {
       "banner": "https://pbs.twimg.com/media/F_vR2XTWQAAjdls?format=jpg&name=large",
@@ -146,7 +181,7 @@
         "SONY"
       ],
       "text": "Os jogos são Mafia II: Definitive Edition, Dragon Ball: The Breakers e Aliens: Fireteam Elite. Todos ficarão disponíveis na próxima terça-feira (07/11) para os assinantes",
-      "title": "Playstation Plus jogos mensais de novembro revelados"
+      "title": "Playstation Plus: jogos mensais de novembro revelados"
     },
     {
       "banner": "https://gh.cdn.sewest.net/assets/ident/pulse/8f595c57/FUNGOR_PULSE_Ver_A-ygbowjoxi.jpg?quality=65",
