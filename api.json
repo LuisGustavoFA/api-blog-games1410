@@ -1,5 +1,24 @@
 {
   "news": [
+     {
+      "banner": "https://assetsio.gnwcdn.com/minecraft-movie-trailer.jpg?width=1200&height=1200&fit=bounds&quality=100&format=jpg&auto=webp",
+      "games": [],
+      "info": {
+        "author": "João Gabriel",
+        "time": "2024-09-01T22:38:00-03:00"
+      },
+      "social": {
+        "x": [""],
+        "youtube": ["y624W9H4U4Q"]
+      },
+      "subtitle": "subtitle",
+      "tags": [
+        "CINEMA",
+        "MINECRAFT"
+      ],
+      "text": "text",
+      "title": "Primeiro trailer de Um Filme Minecraft é lançado"
+    },
     {
       "banner": "https://blog.playstation.com/tachyon/2024/08/005f8b6b40944cf87bdc8869a226b393c5f8640c.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
       "games": [
